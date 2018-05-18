@@ -1,0 +1,58 @@
+body {
+	background-color: Darkred
+}
+
+h1 {
+	color: BlanchedAlmond;
+}
+
+h2 {
+	color: BlanchedAlmond;
+}
+
+h3 {
+	color: BlanchedAlmond;
+}
+
+p {
+	color: BlanchedAlmond;
+}
+
+ul {
+	color: BlanchedAlmond;
+}
+
+ol {
+	color: BlanchedAlmond;
+}
+
+img {
+	border-style: ridge;
+	border-color: Indigo;
+	border-style: dashed;
+}
+
+marquee {
+	color: BlanchedAlmond;
+}
+
+a:link {
+    color: Blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: Indigo;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: Yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: White;
+    background-color: transparent;
+    text-decoration: underline;
+}
